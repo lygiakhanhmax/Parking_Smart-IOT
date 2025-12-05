@@ -7,11 +7,10 @@
 [![EasyOCR](https://img.shields.io/badge/AI-EasyOCR-yellow)](https://github.com/JaidedAI/EasyOCR)
 [![Hardware](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Arduino-red?logo=arduino)](https://www.arduino.cc/)
 
-<p align="center">
-  <img src="ParkingSmart/LogoDaiNam.png" alt="DaiNam University Logo" width="180"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="ParkingSmart/LogoIoT.png" alt="AIoTLab Logo" width="150"/>
-</p>
+<img width="236" height="214" alt="LogoDaiNam (2)" src="https://github.com/user-attachments/assets/edbb1577-d744-422d-99db-b0bed0c8c1af" />
+<img width="225" height="225" alt="LogoIoT (1)" src="https://github.com/user-attachments/assets/0a15dddc-b43e-460e-b67f-4b8f88317fe4" />
+
+ 
 
 **Đồ án môn học - Khoa Công nghệ Thông tin - Đại học Đại Nam**
 
@@ -41,14 +40,12 @@ Hệ thống giúp giám sát xe ra vào theo thời gian thực, tự động m
 ## 🛠️ Kiến Trúc Hệ Thống
 
 ### 1. Sơ Đồ Kết Nối Phần Cứng
-<p align="center">
-  <img src="ParkingSmart/SoDoKetNoi.png" width="800" alt="Sơ đồ mạch"/>
-</p>
+
+<img width="1225" height="765" alt="SoDoKetNoi" src="https://github.com/user-attachments/assets/2d683f34-52ee-45ed-bf4e-593cf4a214a6" />
 
 ### 2. Giao Diện Quản Lý (Web Admin)
-<p align="center">
-  <img src="ParkingSmart/GiaoDienQuanLy.png" width="800" alt="Giao diện Web"/>
-</p>
+
+<img width="1412" height="692" alt="GiaoDienQuanLy" src="https://github.com/user-attachments/assets/aa7dc10b-c99f-499d-b5e2-2207890fff0a" />
 
 ---
 
@@ -135,7 +132,7 @@ Hệ thống sử dụng logic giao tiếp I2C và điều khiển Servo như sa
 **© 2025 Nhóm 2 - Lớp CNTT_17-01** **Khoa Công nghệ Thông tin - Đại học Đại Nam**
 
 Thực hiện bởi: **Lý Gia Khánh** và các thành viên nhóm.  
-📧 Email: mt0u0tm@gmail.com
+📧 Email: giakhanhmax@gmail.com
 
 </div>
 
